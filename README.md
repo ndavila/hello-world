@@ -1,4 +1,4 @@
 # hello-world
-practice of making a respository
+practice makes perfect
 
 # practicing branching and committing 
